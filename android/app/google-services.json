@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314150569063",
+    "firebase_url": "https://badhat-e51e0.firebaseio.com",
+    "project_id": "badhat-e51e0",
+    "storage_bucket": "badhat-e51e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314150569063:android:d1df5a886f8c185c44c0c2",
+        "android_client_info": {
+          "package_name": "com.badhat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314150569063-9b98almpv38fqahut0f9fvo8s5e78f3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlJP2VBs9xKpJM6nGZSAVvwiV3gTSHnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314150569063-9b98almpv38fqahut0f9fvo8s5e78f3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

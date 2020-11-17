@@ -1,0 +1,23 @@
+1. cPanel 3 months plan with GoDaddy.
+=> Once the hosting is transferred, you can access it using using your own GoDaddy Account.
+
+2. Google Play Account: 
+=> email: badhat.b2b@gmail.com, password: Badhat@2020
+
+3. Firebase for Push Notification:
+=> Account linked with the same Gmail.
+
+4. App release build signing details:
+=>  storePassword=Badhat@2020
+	keyPassword=Badhat@2020
+	keyAlias=key
+
+5. SMS Api
+=> Using Fast2SMS as service provider. 
+=> email: badhat.b2b@gmail.com, password: Badhat@2020
+=> Please change the profile phone number.
+=> With free 50 credits, you can only send promotional messages, which is only received between 9AM to 9PM.
+=> You have to purchase credits to be able to use transactional messages for immediate delivery 24x7.
+
+6. Domain
+=> It will be transferred to your GoDaddy account. You can access it by your own login.
